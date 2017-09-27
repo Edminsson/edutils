@@ -1,0 +1,18 @@
+{
+  "name": "edutils",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Edminsson/edutils",
+  "authors": [
+    "Edminsson <axel.aguilar@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
